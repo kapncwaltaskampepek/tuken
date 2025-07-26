@@ -1,22 +1,4 @@
 <div class="wp-block-group__inner-container">
-<h2>Blogroll</h2>
-<ul class="wp-block-categories-list wp-block-categories">
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="http://rajampoyura.com">Rajampo</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="https://bintangmpoyura.com">Bintangmpo</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="https://supermpoyura.com">Supermpo</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="https://judimpoyura.com">Judimpo</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="https://rumahmpoyura.com">Rumahmpo</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="https://mesinmpoyura.com">Mesinmpo</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="https://kaptenmpoyura.com">Kaptenmpo</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="https://mastermpoyura.com">Mastermpo</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="http://3.80.145.70/">Raja Mpo Dana</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="http://44.201.254.39/">Master Mpo</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="http://164.92.237.243/">http://164.92.237.243/</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="http://159.89.12.182/">http://159.89.12.182/</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="http://159.65.118.14/">http://159.65.118.14/</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="http://161.35.207.235/">http://161.35.207.235/</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="https://66.42.59.206/">https://66.42.59.206/</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="http://52.23.241.30/">http://52.23.241.30/</a></li>
-<li><img loading="lazy" src="https://i.ibb.co/f1Zqcz1/New-Mpo-slot.gif" width="25" height="10"><a href="http://13.214.143.91/">http://13.214.143.91/</a></li>
-</ul>
+<h2>LINK ALTERNATIF</h2>
+
 </div>
