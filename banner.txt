@@ -1,5 +1,72 @@
-<a href="https://jaga.link/kamu" rel="noopener ”nofollow” nofollow external noreferrer" data-wpel-link="external" target="_blank"><img fetchpriority="high" style="width: 50%; height: 70px;" src="https://i.postimg.cc/4xCjBRCs/banner-rumahmpo.gif"></a><a href="https://jaga.link/aku" rel="noopener ”nofollow”"><img style="width: 50%; height: 70px;" src="https://i.postimg.cc/gkLfVkTg/banner-mesinmpo.gif"></a>
-<br/>
-<a href="https://t.ly/kapten-yb" rel="noopener ”nofollow” nofollow external noreferrer" data-wpel-link="external" target="_blank"><img fetchpriority="high" style="width: 50%; height: 70px;" src="https://southparkrib.com/wp-content/uploads/2025/07/banner-kaptenmpo.gif"></a><a href="https://jali.me/hantulaut" rel="noopener ”nofollow”"><img style="width: 50%; height: 70px;" src="https://southparkrib.com/wp-content/uploads/2025/07/daftar-judi-mpo-min.gif"></a>
-<br/>
-<a href="https://www.fourwindsapartments.com/" rel="noopener ”nofollow” nofollow external noreferrer" data-wpel-link="external" target="_blank"><img fetchpriority="high" style="width: 50%; height: 70px;" src="https://i.postimg.cc/wMtVLM0H/SUPERMPO-GIF.gif"></a><a href="https://jali.me/masteruhuy" rel="noopener ”nofollow”"><img style="width: 50%; height: 70px;" src="https://i.postimg.cc/C1r7RkCm/MASTERMPO-GIF.gif"></a>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 2px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 992px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <a href="https://jaga.link/kamu" rel="noopener ”nofollow” nofollow external noreferrer" data-wpel-link="external" target="_blank"><img fetchpriority="high" style="width: 100%; height: auto;" src="https://i.postimg.cc/4xCjBRCs/banner-rumahmpo.gif"></a>
+  </div>
+  
+  <div class="column" style="background-color:#bbb;">
+    <a href="https://jaga.link/aku" rel="noopener ”nofollow” nofollow external noreferrer" data-wpel-link="external" target="_blank"><img fetchpriority="high" style="width: 100%; height: auto;" src="https://i.postimg.cc/gkLfVkTg/banner-mesinmpo.gif"></a>
+  </div>
+  
+  <div class="column" style="background-color:#ccc;">
+    <a href="https://random-bw.pages.dev/" rel="noopener ”nofollow” nofollow external noreferrer" data-wpel-link="external" target="_blank"><img fetchpriority="high" style="width: 100%; height: auto;" src="https://southparkrib.com/wp-content/uploads/2025/07/banner-kaptenmpo.gif"></a>
+  </div>
+  
+  <div class="column" style="background-color:#ddd;">
+    <a href="https://jali.me/hantulaut" rel="noopener ”nofollow” nofollow external noreferrer" data-wpel-link="external" target="_blank"><img fetchpriority="high" style="width: 100%; height: auto;" src="https://i.postimg.cc/y8YYVn4Z/JUDIMPO-GIF.gif"></a>
+  </div>
+</div>
+
+<div class="column" style="background-color:#ccc;">
+    <a href="https://www.fourwindsapartments.com/" rel="noopener ”nofollow” nofollow external noreferrer" data-wpel-link="external" target="_blank"><img fetchpriority="high" style="width: 100%; height: auto;" src="https://i.postimg.cc/wMtVLM0H/SUPERMPO-GIF.gif"></a>
+  </div>
+  
+  <div class="column" style="background-color:#ddd;">
+    <a href="https://jali.me/masteruhuy" rel="noopener ”nofollow” nofollow external noreferrer" data-wpel-link="external" target="_blank"><img fetchpriority="high" style="width: 100%; height: auto;" src="https://i.postimg.cc/C1r7RkCm/MASTERMPO-GIF.gif"></a>
+  </div>
+
+
+
+</body>
+</html>
+
+
