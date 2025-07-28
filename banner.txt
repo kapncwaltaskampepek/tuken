@@ -19,8 +19,8 @@
   clear: both;
 }
 
-/* On screens that are 1200px wide or less, go from four columns to two columns */
-@media screen and (max-width: 1200px) {
+/* On screens that are 1900px wide or less, go from four columns to two columns */
+@media screen and (max-width: 1900px) {
   .column {
     width: 50%;
   }
@@ -65,6 +65,3 @@
 
 
 </body>
-
-
-
